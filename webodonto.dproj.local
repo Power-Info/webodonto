@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/02 11:46:43.000.856,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\Unit1.pas</Transaction>
+    <Transaction>2020/07/02 11:46:45.000.160,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\UserSessionUnit.pas</Transaction>
+    <Transaction>2020/07/02 11:46:45.000.137,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\ServerController.pas</Transaction>
+    <Transaction>2020/07/02 11:48:30.000.822,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\MaskUtil.pas</Transaction>
+    <Transaction>2020/07/02 11:48:30.000.436,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Apresentacao.pas</Transaction>
+    <Transaction>2020/07/02 11:48:30.000.452,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\CONSTANTES_WEB.pas</Transaction>
+    <Transaction>2020/07/02 11:48:30.000.991,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Procedimento.pas</Transaction>
+    <Transaction>2020/07/02 11:48:30.000.884,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Menu.pas</Transaction>
+    <Transaction>2020/07/02 11:48:30.000.737,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\GerenciaProcedimentos.pas</Transaction>
+    <Transaction>2020/07/02 11:48:30.000.806,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Login.pas</Transaction>
+    <Transaction>2020/07/02 11:48:30.000.938,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Paciente.pas</Transaction>
+    <Transaction>2020/07/02 11:48:30.000.684,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Empresa.pas</Transaction>
+    <Transaction>2020/07/02 11:48:30.000.621,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Consulta.pas</Transaction>
+    <Transaction>2020/07/02 11:48:43.000.583,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\ServerController.pas</Transaction>
+    <Transaction>2020/07/02 11:48:50.000.761,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\UserSessionUnit.pas</Transaction>
+    <Transaction>2020/07/02 11:48:50.000.708,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Unit1.pas</Transaction>
+    <Transaction>2020/07/02 11:48:50.000.661,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\uListBox.pas</Transaction>
+    <Transaction>2020/07/02 11:48:50.000.824,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Usuarios.pas</Transaction>
+    <Transaction>2020/07/03 16:59:49.000.812,C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\uListBox.pas=</Transaction>
+    <Transaction>2020/07/03 16:59:49.000.792,C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Empresa.pas=</Transaction>
+    <Transaction>2020/07/03 16:59:49.000.802,C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Paciente.pas=</Transaction>
+    <Transaction>2020/07/03 16:59:49.000.817,C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\UserSessionUnit.pas=</Transaction>
+    <Transaction>2020/07/03 16:59:49.000.812,C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Unit1.pas=</Transaction>
+    <Transaction>2020/07/03 16:59:49.000.792,C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\GerenciaProcedimentos.pas=</Transaction>
+    <Transaction>2020/07/03 16:59:49.000.797,C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Login.pas=</Transaction>
+    <Transaction>2020/07/03 16:59:49.000.807,C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Procedimento.pas=</Transaction>
+    <Transaction>2020/07/03 16:59:49.000.787,C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\CONSTANTES_WEB.pas=</Transaction>
+    <Transaction>2020/07/03 16:59:49.000.817,C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Usuarios.pas=</Transaction>
+    <Transaction>2020/07/03 16:59:49.000.732,C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Apresentacao.pas=</Transaction>
+    <Transaction>2020/07/03 16:59:49.000.792,C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Consulta.pas=</Transaction>
+    <Transaction>2020/07/03 16:59:49.000.807,C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\ServerController.pas=</Transaction>
+    <Transaction>2020/07/03 16:59:49.000.802,C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\Menu.pas=</Transaction>
+    <Transaction>2020/07/03 16:59:49.000.797,C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\OdontoWeb\MaskUtil.pas=</Transaction>
+    <Transaction>2020/07/03 17:02:38.000.618,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\ServerController.pas</Transaction>
+    <Transaction>2020/07/03 17:02:38.000.286,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\MaskUtil.pas</Transaction>
+    <Transaction>2020/07/03 17:02:38.000.139,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\Empresa.pas</Transaction>
+    <Transaction>2020/07/03 17:02:38.000.487,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\Procedimento.pas</Transaction>
+    <Transaction>2020/07/03 17:02:38.000.023,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\CONSTANTES_WEB.pas</Transaction>
+    <Transaction>2020/07/03 17:02:38.000.424,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\Paciente.pas</Transaction>
+    <Transaction>2020/07/03 17:02:38.000.271,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\Login.pas</Transaction>
+    <Transaction>2020/07/03 17:02:38.000.355,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\Menu.pas</Transaction>
+    <Transaction>2020/07/03 17:02:38.000.086,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\Consulta.pas</Transaction>
+    <Transaction>2020/07/03 17:02:38.000.224,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\GerenciaProcedimentos.pas</Transaction>
+    <Transaction>2020/07/03 17:02:43.000.717,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\Unit1.pas</Transaction>
+    <Transaction>2020/07/03 17:02:43.000.839,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\Usuarios.pas</Transaction>
+    <Transaction>2020/07/03 17:02:43.000.770,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\UserSessionUnit.pas</Transaction>
+    <Transaction>2020/07/03 17:02:43.000.685,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\uListBox.pas</Transaction>
+    <Transaction>2020/07/03 17:19:00.000.567,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\Apresentacao.pas</Transaction>
+    <Transaction>2020/08/11 10:35:44.000.255,=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\Unit2.pas</Transaction>
+    <Transaction>2020/08/11 10:36:53.000.489,C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\Odonto_Espec.pas=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\Unit2.pas</Transaction>
+    <Transaction>2020/08/11 10:36:53.000.489,C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\Odonto_Espec.dfm=C:\Users\Cleyton\Documents\Embarcadero\Studio\Projects\WebOdonto\webodonto\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

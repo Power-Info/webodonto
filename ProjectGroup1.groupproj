@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{6E354C34-15AD-4AC6-BF1D-B768238EF50E}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="webodonto.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="webodonto">
+        <MSBuild Projects="webodonto.dproj"/>
+    </Target>
+    <Target Name="webodonto:Clean">
+        <MSBuild Projects="webodonto.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="webodonto:Make">
+        <MSBuild Projects="webodonto.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="webodonto"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="webodonto:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="webodonto:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
